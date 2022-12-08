@@ -1,0 +1,7 @@
+orjson==3.4.1
+pydantic==1.9.0
+flake8==4.0
+python-dotenv==0.20.0
+cookiecutter
+autopep8
+bandit
